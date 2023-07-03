@@ -4,6 +4,6 @@
 
 **Today's Progress**: Fork repo, set up environment.
 
-**Thoughts:** Decided on starting the challenge, using it as a nice push to five into some rust learning.
+**Thoughts:** Decided on starting the challenge, using it as a nice push to get into some dedicated rust learning.
 
 **Link to work:** N/A
