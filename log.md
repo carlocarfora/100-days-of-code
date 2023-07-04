@@ -6,4 +6,9 @@
 
 **Thoughts:** Decided on starting the challenge, using it as a nice push to get into some dedicated rust learning.
 
-**Link to work:** N/A
+
+### Day 1: July 04, 2023
+
+**Today's Progress**: Primitive Types and Control Flow, working through a Udemy course unwatched for most of the year.
+
+**Thoughts:** Working through the videos thinking about what to build as a project once I'm done with the course. Rust syntax is a bit confusing at first.
