@@ -12,3 +12,10 @@
 **Today's Progress**: Primitive Types and Control Flow, working through a Udemy course unwatched for most of the year.
 
 **Thoughts:** Working through the videos thinking about what to build as a project once I'm done with the course. Rust syntax is a bit confusing at first.
+
+
+### Day 2: July 05, 2023
+
+**Today's Progress**: Rust ownership, referencing and borrowing.
+
+**Thoughts:** Confusing and interesting at the same time. Rust syntax is still a little (very) alien to me.
