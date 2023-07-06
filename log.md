@@ -1,10 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: July 03, 2023
+### Day 2: July 05, 2023
 
-**Today's Progress**: Fork repo, set up environment.
+**Today's Progress**: Rust structs and traits.
 
-**Thoughts:** Decided on starting the challenge, using it as a nice push to get into some dedicated rust learning.
+**Thoughts:** Managed to complete the exercise in good time. The next couple of videos were confusing (structs and traits??).
 
 
 ### Day 1: July 04, 2023
@@ -14,8 +14,9 @@
 **Thoughts:** Working through the videos thinking about what to build as a project once I'm done with the course. Rust syntax is a bit confusing at first.
 
 
-### Day 2: July 05, 2023
+### Day 0: July 03, 2023
 
-**Today's Progress**: Rust ownership, referencing and borrowing.
+**Today's Progress**: Fork repo, set up environment.
 
-**Thoughts:** Confusing and interesting at the same time. Rust syntax is still a little (very) alien to me.
+**Thoughts:** Decided on starting the challenge, using it as a nice push to get into some dedicated rust learning.
+
