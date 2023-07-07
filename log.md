@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 4: July 07, 2023
+**Today's Progress**: Rust enums and collections.
+
+**Thoughts:** This was tricky, still haven't really got my head around it. I'll have to do some more reading/exercises to wrap my head aroud it.
+
+
 ### Day 3: July 06, 2023
 **Today's Progress**: Rust structs and traits.
 
