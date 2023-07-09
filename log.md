@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 5: July 09, 2023
+**Today's Progress**: Rust closures and threads.
+
+**Thoughts:** More tricky stuff, not had to do much of this before. Got there in the end, spent a while wondering why the challenge wasn't working when I just had to move a line of code outside the for loop! In Python I've only done multithreading a few times and it was always a little confusing...
+
 
 ### Day 4: July 07, 2023
 **Today's Progress**: Rust enums and collections.
