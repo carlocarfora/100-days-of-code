@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 6: July 10, 2023
+**Today's Progress**: Start rustlings
+
+**Thoughts:** The final part of the tutorial was ridiculously advanced, would like to go back to it at a later point but for now while thinking of a small starting project I'll work through some exercises on Rustlings.
+
+
 ### Day 5: July 09, 2023
 **Today's Progress**: Rust closures and threads.
 
