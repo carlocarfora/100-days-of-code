@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 7: July 11, 2023
+**Today's Progress**: More Rustlings
+
+**Thoughts:** Really enjoying working through Rustlings, currently 22.1% through it. Finding a lot of the basic knowledge has stuck and getting to know the compiler through errors is clever!
+
+
 ### Day 6: July 10, 2023
 **Today's Progress**: Start rustlings
 
