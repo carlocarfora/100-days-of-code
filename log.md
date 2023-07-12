@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 8: July 12, 2023
+**Today's Progress**: More Rustlings
+
+**Thoughts:** Move semantics, was a bit of a brain twister with ownership. I can see it taking a little time to sink in. The compiler sure likes to complain...
+
+
 ### Day 7: July 11, 2023
 **Today's Progress**: More Rustlings
 
