@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 9: July 14, 2023
+**Today's Progress**: More Rustlings 32/95 exercises
+
+**Thoughts:** Done with move semantics, ownership is a bit of a mind bend at times Moved onto structs next, decided I should also note the exercise numbers in the log to see progress through Rustlings. The AWSF has a working group for Rust, keeping an eye out for any simple work that could be done.
+
+
 ### Day 8: July 12, 2023
 **Today's Progress**: More Rustlings
 
