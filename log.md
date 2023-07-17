@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 10: July 17, 2023
+**Today's Progress**: More Rustlings 41/95 exercises
+
+**Thoughts:** Didn't update yetserdays so rolled it all into today. Slower progress now as the problems are getting more difficult, strings are a bit different but I think string slicing makes sense now. 
+
+
 ### Day 9: July 14, 2023
 **Today's Progress**: More Rustlings 32/95 exercises
 
