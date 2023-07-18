@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 11: July 18, 2023
+**Today's Progress**: More Rustlings 45/95 exercises
+
+**Thoughts:** Not as much progress as wanted but had to read a fair bit to understand the module system!
+
+
 ### Day 10: July 17, 2023
 **Today's Progress**: More Rustlings 41/95 exercises
 
