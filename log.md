@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 11: July 22, 2023
+### Day 12: July 22, 2023
 **Today's Progress**: More Rustlings 48/95 exercises
 
 **Thoughts:** Busy past few days but managed to squeeze in some exercises. Very happy to have got through quiz2, that was quite challenging.
