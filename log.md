@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 13: July 25, 2023
+**Today's Progress**: More Rustlings 51/95 exercises
+
+**Thoughts:** Progress has slowed down a lot, the exercises are very syntax frustrating and I'm not sure I understand all the concepts covered well enough yet. But still progressing and finding it good to make sure I cram some time in to code as daily as possible.
+
+
 ### Day 12: July 22, 2023
 **Today's Progress**: More Rustlings 48/95 exercises
 
