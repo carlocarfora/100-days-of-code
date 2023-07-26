@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 14: July 26, 2023
+**Today's Progress**: More Rustlings 57/95 exercises
+
+**Thoughts:** It's getting hard! Just finished up errors, rust feels like there's a **lot** of syntax learning.
+
+
 ### Day 13: July 25, 2023
 **Today's Progress**: More Rustlings 51/95 exercises
 
