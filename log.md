@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 15: Aug 07, 2023
+**Today's Progress**: More Rustlings 61/95 exercises
+
+**Thoughts:** Life got in the way but back on it, good to know progress hasn't vanished from memory. Generics and traits are intersting concepts.
+
+
 ### Day 14: July 26, 2023
 **Today's Progress**: More Rustlings 57/95 exercises
 
