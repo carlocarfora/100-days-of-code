@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 16: Aug 10, 2023
+**Today's Progress**: More Rustlings 65/95 exercises
+
+**Thoughts:** Quiz3 was good, managed to get through it faster than previously. Generics and Traits are really interesting concepts but the syntax is just such a hurdle so far. Especially coming from something as straightforward to write as python.
+
+
 ### Day 15: Aug 07, 2023
 **Today's Progress**: More Rustlings 61/95 exercises
 
