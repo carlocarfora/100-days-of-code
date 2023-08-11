@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 17: Aug 11, 2023
+**Today's Progress**: More Rustlings 72/95 exercises
+
+**Thoughts:** Lifetimes are something I've not seen thought of that way before. Still feel like I'm struggling with concepts that are basic to do in other languages. 
+
+
 ### Day 16: Aug 10, 2023
 **Today's Progress**: More Rustlings 65/95 exercises
 
