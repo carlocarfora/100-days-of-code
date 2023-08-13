@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 17: Aug 13, 2023
+### Day 18: Aug 13, 2023
 Today's Progress: More Rustlings 76/95 exercises
 
 Thoughts: Thinking in terms of iterators and stacking functions on top of each other without looking at the output is conceptually difficult for me. I'm used to printing out every result at at a time to verify what I'm doing. I should make more use of the debug trait(?)...
