@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 ### Day 18: Aug 13, 2023
+Today's Progress: More Rustlings 78/95 exercises
+
+Thoughts: Managed 3 exercises today and they were challenging. I'm not used to writing code in a functional style at all, and only wrote a couple of multithreaded python scripts so this is a little bit of uncharted territory.
+
+
+### Day 18: Aug 13, 2023
 Today's Progress: More Rustlings 76/95 exercises
 
 Thoughts: Thinking in terms of iterators and stacking functions on top of each other without looking at the output is conceptually difficult for me. I'm used to printing out every result at at a time to verify what I'm doing. I should make more use of the debug trait(?)...
