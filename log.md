@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 18: Aug 13, 2023
+### Day 19: Aug 14, 2023
 Today's Progress: More Rustlings 78/95 exercises
 
 Thoughts: Managed 3 exercises today and they were challenging. I'm not used to writing code in a functional style at all, and only wrote a couple of multithreaded python scripts so this is a little bit of uncharted territory.
