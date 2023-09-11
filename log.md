@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 20: Sep 11, 2023
+Today's Progress: Started Command-Line Rust
+
+Thoughts: Life got busy, but back on this as 100 days before the end of the year is still possible. Decided to work through this book after looking for a resource that will leave me with the skills to start writing usable software. Command line applications are super useful in day to day VFX work, so it's a good place to work on as a Rust beginner.
+
+
 ### Day 19: Aug 14, 2023
 Today's Progress: More Rustlings 78/95 exercises
 
