@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 21: Sep 12, 2023
+Today's Progress: Started to learn how to use clap, write basic tests
+
+Thoughts: The clap create is really cool, made it very easy to write a basic CLI application. I can already think of a cool project re-writing some basic vfx CLI tools in rust using clap.
+
 ### Day 20: Sep 11, 2023
 Today's Progress: Started Command-Line Rust
 
