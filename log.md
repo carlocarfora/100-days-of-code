@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 22: Sep 25, 2023
+Today's Progress: Starting work on catr, cat in Rust....
+
+Thoughts: More clap crate, working through Command Line Rust.
+
 ### Day 21: Sep 12, 2023
 Today's Progress: Started to learn how to use clap, write basic tests
 
