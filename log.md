@@ -1,31 +1,44 @@
 # 100 Days Of Code - Log
 
-### Day 22: Sep 25, 2023
-Today's Progress: Starting work on catr, cat in Rust....
+### Day 24: Sep 27, 2023
+**Today's Progress**: Writing the workings of the program.
 
-Thoughts: More clap crate, working through Command Line Rust.
+**Thoughts**: Still finding the rust syntax tricky, also the functional style can throw me off when needing to think how to structure the workings 
+
+### Day 23: Sep 26, 2023
+**Today's Progress**: Wrote the CLI workings with clap.
+
+**Thoughts**: Clap is awesome, will be my go to for creating CLI tools
+
+
+### Day 22: Sep 25, 2023
+**Today's Progress**: Starting work on catr, cat in Rust....
+
+**Thoughts**: More clap crate, working through Command Line Rust.
+
 
 ### Day 21: Sep 12, 2023
-Today's Progress: Started to learn how to use clap, write basic tests
+**Today's Progress**: Started to learn how to use clap, write basic tests
 
-Thoughts: The clap create is really cool, made it very easy to write a basic CLI application. I can already think of a cool project re-writing some basic vfx CLI tools in rust using clap.
+**Thoughts**: The clap create is really cool, made it very easy to write a basic CLI application. I can already think of a cool project re-writing some basic vfx CLI tools in rust using clap.
+
 
 ### Day 20: Sep 11, 2023
-Today's Progress: Started Command-Line Rust
+**Today's Progress**: Started Command-Line Rust
 
-Thoughts: Life got busy, but back on this as 100 days before the end of the year is still possible. Decided to work through this book after looking for a resource that will leave me with the skills to start writing usable software. Command line applications are super useful in day to day VFX work, so it's a good place to work on as a Rust beginner.
+**Thoughts**: Life got busy, but back on this as 100 days before the end of the year is still possible. Decided to work through this book after looking for a resource that will leave me with the skills to start writing usable software. Command line applications are super useful in day to day VFX work, so it's a good place to work on as a Rust beginner.
 
 
 ### Day 19: Aug 14, 2023
-Today's Progress: More Rustlings 78/95 exercises
+**Today's Progress**: More Rustlings 78/95 exercises
 
-Thoughts: Managed 3 exercises today and they were challenging. I'm not used to writing code in a functional style at all, and only wrote a couple of multithreaded python scripts so this is a little bit of uncharted territory.
+**Thoughts**: Managed 3 exercises today and they were challenging. I'm not used to writing code in a functional style at all, and only wrote a couple of multithreaded python scripts so this is a little bit of uncharted territory.
 
 
 ### Day 18: Aug 13, 2023
-Today's Progress: More Rustlings 76/95 exercises
+**Today's Progress**: More Rustlings 76/95 exercises
 
-Thoughts: Thinking in terms of iterators and stacking functions on top of each other without looking at the output is conceptually difficult for me. I'm used to printing out every result at at a time to verify what I'm doing. I should make more use of the debug trait(?)...
+**Thoughts**: Thinking in terms of iterators and stacking functions on top of each other without looking at the output is conceptually difficult for me. I'm used to printing out every result at at a time to verify what I'm doing. I should make more use of the debug trait(?)...
 
 
 ### Day 17: Aug 11, 2023
