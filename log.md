@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 25: Oct 02, 2023
+**Today's Progress**: Nearly passing all the tests now, have to iplement the -b flag for catr
+
+**Thoughts**: Thinking in rust logic is tricky, just not writing enough often enough to have it normal yet. Still need to peek at a completed task to find a way forwards sometimes 
+
+
 ### Day 24: Sep 27, 2023
 **Today's Progress**: Writing the workings of the program.
 
