@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 26: Oct 03, 2023
+**Today's Progress**: Finished writing the -b flag behaviour for catr and the chapter
+
+**Thoughts**: Something clicked today and I was able to finish the program quickly and without too many syntax hurdles. On to the next chapter...
+
+
 ### Day 25: Oct 02, 2023
 **Today's Progress**: Nearly passing all the tests now, have to iplement the -b flag for catr
 
