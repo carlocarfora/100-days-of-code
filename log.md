@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 27: Oct 04, 2023
+**Today's Progress**: Started on the next chapter which is writing head in rust
+
+**Thoughts**: Beginning to get used to the pattern using clap, as well as the syntax etc. Have already decided the next project will be working on the raytracing in one weekend book as I have found a Rust port to work through.
+
+
 ### Day 26: Oct 03, 2023
 **Today's Progress**: Finished writing the -b flag behaviour for catr and the chapter
 
