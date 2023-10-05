@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 27: Oct 04, 2023
+### Day 28: Oct 05, 2023
 **Today's Progress**: Forgot how to write a match statement, fumbled through some syntax.
 
 **Thoughts**: Well, still feel like i know nothing about Rust and not convinced I could write anything just yet completely on my own but that's what the books are for.
