@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 30: Oct 10, 2023
+**Today's Progress**: Messing around with egui but have got the UI of a very simple render time calculator working.
+
+**Thoughts**: Egui seems like a very nice feature packed GUI libary, will be really useful in trying to move over from python and QT to rust for small helper apps 
+
+
+### Day 29: Oct 06, 2023
+**Today's Progress**: Exciting to start something not book related, picked a very simple GUI app to try and create.
+
+**Thoughts**: Decided to take a break from book learning and do something I wanted to learn, which was how to make simple GUI's in rust. Picked up egui and started noodling around.
+
+
 ### Day 28: Oct 05, 2023
 **Today's Progress**: Forgot how to write a match statement, fumbled through some syntax.
 
