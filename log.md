@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 32: Oct 17, 2023
+**Today's Progress**: Updated render time calc to use structs and methods.
+
+**Thoughts**: Today structs and methods clicked in use, can see why it's neater than hanging functions (if that's what you even call them). Absorbing enums should be the next goal but will work through another chapter in command line rust first.
+
+
 ### Day 31: Oct 10, 2023
 **Today's Progress**: Finished off a working version of render time calc with egui. First GUI using Rust, great to have it working
 
