@@ -1,4 +1,10 @@
-# 100 Days Of Code - Log
+# 100 (non-consecutive) Days Of Code - Log
+
+### Day 32: Feb 22, 2023
+**Today's Progress**: Back on command line rust.
+
+**Thoughts**: Opened some Rust code for the first time since the previous entry. Took a bit of thinking to start getting it again, but regular progress will be resuming on this again.
+
 
 ### Day 32: Oct 17, 2023
 **Today's Progress**: Updated render time calc to use structs and methods.
